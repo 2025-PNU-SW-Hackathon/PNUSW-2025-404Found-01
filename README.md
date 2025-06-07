@@ -302,12 +302,12 @@ project-root/
 
 
 ### 6. 팀 소개
-| **임나빈** | **박지은** | **판킨킨자우** | **황수민** |
-|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/ddoed.png" width="100" height="100"> | <img src="https://github.com/phlox22.png" width="100" height="100"> | <img src="https://github.com/aintnoway12.png" width="100" height="100"> | <img src="https://github.com/hsuminsm.png" width="100" height="100">
-| **팀장 </br>백엔드 개발** | **백엔드 개발** | **프론트엔드 개발** | **프론트엔드 개발** |
-| [Github](https://github.com/ddoed) | [Github](https://github.com/phlox22) | [Github](https://github.com/aintnoway12) | [Github](https://github.com/hsuminsm) |
-| ddoed2201@pusan.ac.kr | phlox22@pusan.ac.kr | pankhin12@pusan.ac.kr | hhy9706@naver.com |
+| **임나빈** | **박지은** | **판킨킨자우** | **황수민** | **정재민** |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/ddoed.png" width="100" height="100"> | <img src="https://github.com/phlox22.png" width="100" height="100"> | <img src="https://github.com/aintnoway12.png" width="100" height="100"> | <img src="https://github.com/hsuminsm.png" width="100" height="100">| - |
+| **팀장 </br>백엔드 개발** | **백엔드 개발** | **프론트엔드 개발** | **프론트엔드 개발** | **기획 및 디자인** |
+| [Github](https://github.com/ddoed) | [Github](https://github.com/phlox22) | [Github](https://github.com/aintnoway12) | [Github](https://github.com/hsuminsm) | - |
+| ddoed2201@pusan.ac.kr | phlox22@pusan.ac.kr | pankhin12@pusan.ac.kr | hhy9706@naver.com | sciopathislost@naver.com |
 
 
 <br/>
@@ -321,4 +321,6 @@ project-root/
 - **황수민**  
   > 작성 예정
 - **판킨킨자우**  
+  > 작성 예정
+- **정재민**  
   > 작성 예정
