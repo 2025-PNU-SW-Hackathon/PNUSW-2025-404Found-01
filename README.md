@@ -243,8 +243,8 @@ ResQ: 글 작성, 댓글 작성, 후원 참여 시 포인트가 적립되며, �
 #### 3.1. 전체시스템 흐름도
 
 - 유저 플로우 차트
-![image](https://github.com/user-attachments/assets/15fe918d-fbf4-4f92-8478-ac443f7a5955)
-  
+<img width="2262" height="1191" alt="플로우차트_최종 drawio" src="https://github.com/user-attachments/assets/5e39f146-38e6-4b88-b75a-0a982ed6b03d" />
+
 - IA(Information Architecture)
 ![image](https://github.com/user-attachments/assets/0df2e5cf-ed45-4673-8917-02546c62ef89)
   
