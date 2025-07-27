@@ -245,7 +245,8 @@ ResQ: 글 작성, 댓글 작성, 후원 참여 시 포인트가 적립되며, �
 - 유저 플로우 차트 <img width="2262" height="1191" alt="image" src="https://github.com/user-attachments/assets/4ef60780-690d-4eec-ba7f-c791f4de3247" />
 
 - IA(Information Architecture)
-![image](https://github.com/user-attachments/assets/0df2e5cf-ed45-4673-8917-02546c62ef89)
+<img width="1594" height="1233" alt="image" src="https://github.com/user-attachments/assets/f354a554-517a-4fc3-9817-5459fa9dcd12" />
+
   
 - ERD
 ![image](https://github.com/user-attachments/assets/23ae08f9-a6b9-41e7-b2db-7883919c3eb2)
