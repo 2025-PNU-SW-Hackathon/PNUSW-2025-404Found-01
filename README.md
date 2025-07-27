@@ -217,8 +217,8 @@ ResQ: 글 작성, 댓글 작성, 후원 참여 시 포인트가 적립되며, �
 
 
 ### 2.상세설계
-#### 2.1. 시스템 구성도
-![image](https://github.com/user-attachments/assets/796da1b1-51ee-471f-b339-501b54183ff8)
+#### 2.1. 시스템 구성도 <img width="1488" height="1051" alt="Frame 9" src="https://github.com/user-attachments/assets/29203fb2-ee49-4820-8694-da2683db08ba" />
+
 <br/>
 
 #### 2.2. 사용기술
@@ -245,12 +245,11 @@ ResQ: 글 작성, 댓글 작성, 후원 참여 시 포인트가 적립되며, �
 - 유저 플로우 차트 <img width="1347" height="696" alt="image" src="https://github.com/user-attachments/assets/49cd78f2-5397-4b08-b22e-e36a3a360444" />
 
 
-- IA(Information Architecture)
-<img width="1594" height="1233" alt="image" src="https://github.com/user-attachments/assets/f354a554-517a-4fc3-9817-5459fa9dcd12" />
+- IA(Information Architecture) <img width="1594" height="1233" alt="image" src="https://github.com/user-attachments/assets/f354a554-517a-4fc3-9817-5459fa9dcd12" />
 
   
-- ERD
-![image](https://github.com/user-attachments/assets/23ae08f9-a6b9-41e7-b2db-7883919c3eb2)
+- ERD <img width="1318" height="1320" alt="Untitled" src="https://github.com/user-attachments/assets/22c4899e-728a-4b07-ab98-04b6ad62982b" />
+
 
   
 <br/>
