@@ -242,7 +242,8 @@ ResQ: 글 작성, 댓글 작성, 후원 참여 시 포인트가 적립되며, �
 ### 3. 개발결과
 #### 3.1. 전체시스템 흐름도
 
-- 유저 플로우 차트 <img width="2262" height="1191" alt="image" src="https://github.com/user-attachments/assets/4ef60780-690d-4eec-ba7f-c791f4de3247" />
+- 유저 플로우 차트 <img width="1347" height="696" alt="image" src="https://github.com/user-attachments/assets/49cd78f2-5397-4b08-b22e-e36a3a360444" />
+
 
 - IA(Information Architecture)
 <img width="1594" height="1233" alt="image" src="https://github.com/user-attachments/assets/f354a554-517a-4fc3-9817-5459fa9dcd12" />
