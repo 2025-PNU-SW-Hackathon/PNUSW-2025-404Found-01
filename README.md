@@ -503,7 +503,7 @@ project-root/
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/ddoed.png" width="100" height="100"> | <img src="https://github.com/phlox22.png" width="100" height="100"> | <img src="https://github.com/aintnoway12.png" width="100" height="100"> | <img src="https://github.com/hsuminsm.png" width="100" height="100">| - |
 | **팀장 </br>백엔드 개발** | **백엔드 개발** | **프론트엔드 개발** | **프론트엔드 개발** | **기획 및 디자인** |
-| [Github](https://github.com/ddoed) | [Github](https://github.com/phlox22) | [Github](https://github.com/aintnoway12) | [Github](https://github.com/hsuminsm) | - |
+| [Github](https://github.com/ddoed) | [Github](https://github.com/phlox22) | [Github](https://github.com/aintnoway12) | [Github](https://github.com/hsuminsm) | Github |
 | ddoed2201@pusan.ac.kr | phlox22@pusan.ac.kr | pankhin12@pusan.ac.kr | hhy9706@naver.com | sciopathislost@naver.com |
 
 
@@ -512,7 +512,7 @@ project-root/
 
 ### 7. 해커톤 참여 후기
 - **임나빈**  
-  > 작성 예정
+  > 장기간 프로젝트의 팀장을 맡아, 팀 전반의 개발 흐름을 조율하고 진행 상황을 관리하였으며 백엔드 개발 및 배포를 담당하였습니다. 새로운 기술 스택의 도입과 실제 서비스에서 사용되는 핵심 기능들을 직접 설계하고 구현함으로써 개발자로서의 역량을 크게 향상시킬 수 있었고 자신감을 얻을 수 있었습니다. 또한, 팀원 간의 원활한 커뮤니케이션과 효율적인 역할 분담의 중요성을 깊이 체감하며, 팀장의 책임감과 리더십을 실질적으로 경험하고 성장할 수 있었습니다.
 - **박지은**  
   > 간단한 팀 프로젝트는 해보았지만 이렇게 긴 시간동안 여러 사람들괴 함께 팀으로서 프로젝트를 진행한 것은 처음이라 정말 새로운 경험을 했습니다. 개발자로서 한단계 성장하는 시간이었던 것 같고 특히 미리 구조를 짜고 api 명세서를 적는 등의 사전작업들을 미리 해둔 후 개발에 들어가는 것이 매우 중요함을 깨달았습니다. 어려운 기능, 어려운 코드를 배우기보다는 개발자로서 프로젝트를 진행할 때 해야하는 여러 단계들과 마음가짐을 배우는 기회였다고 생각합니다.
 - **황수민**  
