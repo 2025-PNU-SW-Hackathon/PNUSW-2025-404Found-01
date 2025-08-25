@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/379c5cde-53ee-4f41-940e-6ca689bbf75a" />
+
 ### 1. 프로젝트 소개
 #### 1.1. 개발 배경 및 동기
 #### □ 개발 배경</br>
