@@ -264,8 +264,8 @@ ResQ : 재난 알림 수신 지역/유형(화재, 지진, 폭염 등) 을 설정
 >-	사용자는 로그인, 회원가입, 비회원 로그인 중 하나를 선택할 수 있습니다.
 >-	로그인, 회원가입은 각 버튼 클릭 시  해당 페이지로 이동합니다.
 >-	비회원 로그인 선택 시 지도페이지로 이동합니다.
-<img width="660" height="1136" alt="image" src="https://github.com/user-attachments/assets/22937945-ce74-4f01-bec9-d3079c370d69" />
-<img width="644" height="1162" alt="image" src="https://github.com/user-attachments/assets/93ad86ec-60d1-476f-a8a2-7b66d312598f" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/22937945-ce74-4f01-bec9-d3079c370d69" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/93ad86ec-60d1-476f-a8a2-7b66d312598f" />
+
 
 
 ##### ` 로그인 페이지 `
