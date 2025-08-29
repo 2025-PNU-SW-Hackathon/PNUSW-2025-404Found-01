@@ -264,9 +264,7 @@ ResQ : 재난 알림 수신 지역/유형(화재, 지진, 폭염 등) 을 설정
 >-	사용자는 로그인, 회원가입, 비회원 로그인 중 하나를 선택할 수 있습니다.
 >-	로그인, 회원가입은 각 버튼 클릭 시  해당 페이지로 이동합니다.
 >-	비회원 로그인 선택 시 지도페이지로 이동합니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/22937945-ce74-4f01-bec9-d3079c370d69" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/93ad86ec-60d1-476f-a8a2-7b66d312598f" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/7b6e4bf2-e715-4dcd-8b57-b26d7fee9697" />
-
-
+>-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/22937945-ce74-4f01-bec9-d3079c370d69" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/93ad86ec-60d1-476f-a8a2-7b66d312598f" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/7b6e4bf2-e715-4dcd-8b57-b26d7fee9697" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2761973b-1729-4468-86ac-d9d894b9a5b7" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/b244c293-8e80-4c85-9e91-831a32196d54" />
 
 
 ##### ` 로그인 페이지 `
@@ -274,20 +272,31 @@ ResQ : 재난 알림 수신 지역/유형(화재, 지진, 폭염 등) 을 설정
 >-	입력창에 입력 시 유효성 검사가 진행됩니다.
 >-	유효성 검사를 통과하지 못한 경우, 각 입력창 하단에 오류 메시지가 표시됩니다.
 >-	하단 링크를 통해 회원가입 또는 비회원 로그인을 선택할 수 있습니다.
+>-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c8a07ea4-a6dd-4319-aecc-f47108050dff" /> <img width="565" height="300" alt="500" src="https://github.com/user-attachments/assets/17e9f744-9a4c-47d3-bee8-33cdcbcc0faa" />
+
+
 ##### ` 회원가입 페이지 `
 >-	사용자로부터 아이디, 비밀번호, 비밀번호 확인, 이메일 정보를 입력받습니다.
 >-	이메일 입력 시, 오른쪽의 인증 버튼을 클릭하여 이메일 인증 요청을 보냅니다.
 >-	이메일 인증이 완료된 후 , 인증코드 입력란이 활성화됩니다.
->-	인증 성공 시 성공 메시지가 하단에 표시되고, 다음 버튼을 누르면 지도 페이지로 이동합니다.
+>-	인증 성공 시 성공 메시지가 하단에 표시되고, 다음 버튼을 누르면 닉네임 설정 페이지가 나옵니다. 
+>-	닉네임 완성 후 지도 페이지로 이동합니다.
+>-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/796663f4-3337-4f9b-a627-321fca020503" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/94210f63-d616-4fc7-86df-2ff5b49a7ae5" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6c7e9b32-f6cd-4da1-92cd-ea00a4533d19" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8bc44ff0-e84b-4aae-b21d-d49a3c811169" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6e592f9e-a1bf-4317-ac17-cfc9c4e230b6" />
+
+
 ##### ` 비밀번호 재설정 페이지 `
 >-	사용자가 가입한 이메일 주소를 입력하고 메일 인증 버튼을 클릭합니다.
 >-	유효한 이메일이면 인증코드가 해당 이메일로 발송되고 다음 버튼을 누르면 인증코드 입력 화면으로 이동합니다.
 >-	인증 성공 시 성공 메시지가 하단에 표시되고, 새 비밀번호 설정 페이지로 이동합니다.
+>-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/467e1bca-2548-41d5-b825-021581c51205" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/363151b7-fd00-41d1-90e5-c2efed742093" /> 
+
+
 ##### ` 새 비밀번호 설정 페이지 `
 >-	사용자로부터 새로운 비밀번호와 비밀번호 확인을 입력받습니다.
->-	입력된 비밀번호는 8자 이상 조건을 만족해야하며, 유효성 검사가 진행됩니다.
+>-	입력된 비밀번호는 입력하여, 유효성 검사가 진행됩니다.
 >-	두 필드가 일치하지 않으면 오류 메시지가 표시됩니다.
 >-	변경 성공 시 완료 메시지가 표시되며, 로그인 페이지로 이동합니다.
+>-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/96c0509c-e538-4f34-82e8-05c3308ac7fb" /> 
 ##### ` 지도 페이지 `
 >-	현재 위치 기반으로 주소를 불러오고, 지도에 표시합니다.
 >-	주요 카테고리 버튼(대피소, 재난정보, 병원)을 제공하여 해당 정보를 확인할 수 있습니다.
