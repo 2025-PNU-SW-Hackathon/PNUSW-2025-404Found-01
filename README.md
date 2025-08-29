@@ -264,15 +264,19 @@ ResQ : 재난 알림 수신 지역/유형(화재, 지진, 폭염 등) 을 설정
 >-	사용자는 로그인, 회원가입, 비회원 로그인 중 하나를 선택할 수 있습니다.
 >-	로그인, 회원가입은 각 버튼 클릭 시  해당 페이지로 이동합니다.
 >-	비회원 로그인 선택 시 지도페이지로 이동합니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/22937945-ce74-4f01-bec9-d3079c370d69" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/93ad86ec-60d1-476f-a8a2-7b66d312598f" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/7b6e4bf2-e715-4dcd-8b57-b26d7fee9697" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/2761973b-1729-4468-86ac-d9d894b9a5b7" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/b244c293-8e80-4c85-9e91-831a32196d54" />
+
+<img width="125" height="263" alt="image" src="https://github.com/user-attachments/assets/62dfd736-68e5-4967-ad60-73fefce56ee4" />
+
 
 
 ##### ` 로그인 페이지 `
 >-	사용자로부터 아이디와 비밀번호를 입력받습니다.
 >-	입력창에 입력 시 유효성 검사가 진행됩니다.
 >-	유효성 검사를 통과하지 못한 경우, 각 입력창 하단에 오류 메시지가 표시됩니다.
->-	하단 링크를 통해 회원가입 또는 비회원 로그인을 선택할 수 있습니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c8a07ea4-a6dd-4319-aecc-f47108050dff" /> <img width="565" height="300" alt="500" src="https://github.com/user-attachments/assets/17e9f744-9a4c-47d3-bee8-33cdcbcc0faa" />
+>-	하단 버튼을 통해 회원가입 또는 비회원 로그인을 선택할 수 있습니다.
+<img width="124" height="262" alt="image" src="https://github.com/user-attachments/assets/f2804b63-25d6-4a0b-81de-5ce399f9f419" />
+
+
 
 
 ##### ` 회원가입 페이지 `
@@ -281,77 +285,134 @@ ResQ : 재난 알림 수신 지역/유형(화재, 지진, 폭염 등) 을 설정
 >-	이메일 인증이 완료된 후 , 인증코드 입력란이 활성화됩니다.
 >-	인증 성공 시 성공 메시지가 하단에 표시되고, 다음 버튼을 누르면 닉네임 설정 페이지가 나옵니다. 
 >-	닉네임 완성 후 지도 페이지로 이동합니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/796663f4-3337-4f9b-a627-321fca020503" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/94210f63-d616-4fc7-86df-2ff5b49a7ae5" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6c7e9b32-f6cd-4da1-92cd-ea00a4533d19" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8bc44ff0-e84b-4aae-b21d-d49a3c811169" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/6e592f9e-a1bf-4317-ac17-cfc9c4e230b6" />
+<img width="152" height="321" alt="image" src="https://github.com/user-attachments/assets/dab67db0-37c0-4f16-8626-01c2c4d47c90" />
+<img width="153" height="323" alt="image" src="https://github.com/user-attachments/assets/e1c5f661-6823-4b24-95d4-8beff79e515a" />
+<img width="278" height="186" alt="image" src="https://github.com/user-attachments/assets/303f0372-3a43-47f9-b5e0-6cbbd8a8d518" />
+
 
 
 ##### ` 비밀번호 재설정 페이지 `
 >-	사용자가 가입한 이메일 주소를 입력하고 메일 인증 버튼을 클릭합니다.
 >-	유효한 이메일이면 인증코드가 해당 이메일로 발송되고 다음 버튼을 누르면 인증코드 입력 화면으로 이동합니다.
 >-	인증 성공 시 성공 메시지가 하단에 표시되고, 새 비밀번호 설정 페이지로 이동합니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/467e1bca-2548-41d5-b825-021581c51205" /> <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/363151b7-fd00-41d1-90e5-c2efed742093" /> 
-
+<img width="153" height="323" alt="image" src="https://github.com/user-attachments/assets/acf15ab8-0811-4bf0-a6c5-f6d588d12211" />
+<img width="155" height="327" alt="image" src="https://github.com/user-attachments/assets/9c7b14d4-dfee-40d7-8c35-3e52d3d398d6" />
 
 ##### ` 새 비밀번호 설정 페이지 `
 >-	사용자로부터 새로운 비밀번호와 비밀번호 확인을 입력받습니다.
 >-	입력된 비밀번호는 입력하여, 유효성 검사가 진행됩니다.
 >-	두 필드가 일치하지 않으면 오류 메시지가 표시됩니다.
 >-	변경 성공 시 완료 메시지가 표시되며, 로그인 페이지로 이동합니다.
->-	<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/96c0509c-e538-4f34-82e8-05c3308ac7fb" /> 
+<img width="150" height="316" alt="image" src="https://github.com/user-attachments/assets/2e090761-dc5d-42c2-ba3e-e0e33f64511a" />
+
 ##### ` 지도 페이지 `
 >-	현재 위치 기반으로 주소를 불러오고, 지도에 표시합니다.
 >-	주요 카테고리 버튼(대피소, 재난정보, 병원)을 제공하여 해당 정보를 확인할 수 있습니다.
 >-	재난 문자 상태가 상단에 시각적으로 표시됩니다.(예: “재난 문자가 없습니다”)
+<img width="148" height="312" alt="image" src="https://github.com/user-attachments/assets/ce46b52a-9fb9-402e-b021-680a324e1212" />
+<img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/cdeb72a4-8a1e-4526-b4f5-f5f7af9eb7b8" />
+<img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/393da44f-7c52-4987-b5ac-766bf70183bd" />
+<img width="144" height="311" alt="image" src="https://github.com/user-attachments/assets/6dd98785-a858-4c91-919f-9e5e966615c7" />
+<img width="148" height="321" alt="image" src="https://github.com/user-attachments/assets/9d98750d-85a8-4039-bbbe-ecd3488bebc2" />
+<img width="149" height="322" alt="image" src="https://github.com/user-attachments/assets/ccf0dbfa-809f-4282-889a-f037ad33f1d6" />
+
 ##### ` 챗봇 페이지 `
 >-	입력창을 통해 사용자의 질문을 받으며, 챗봇이 자동 응답을 제공합니다.
+<img width="151" height="319" alt="image" src="https://github.com/user-attachments/assets/8e038f8f-47b8-4c5f-80bb-588a0619d571" />
+
 ##### ` 커뮤니티 페이지 `
 >-	전체글, 잡담담글을 모아볼 수 있습니다. 더보기 버튼을 클릭할 경우 각 카테고리의 항목들을 볼 수 있습니다.
 >-	각 게시글의 상세페이지에서 좋아요를 누르거나 댓글과 대댓글을 작성하여 소통할 수 있습니다.
 >-	하단의 연필 아이콘을 클릭하면 게시글 작성 페이지로 이동합니다.
+<img width="154" height="300" alt="image" src="https://github.com/user-attachments/assets/10be0afd-d819-4e15-a62d-5019d8ea50ec" />
+<img width="156" height="311" alt="image" src="https://github.com/user-attachments/assets/415df11c-5fa0-41b4-9904-cd83fc9dd772" />
+<img width="153" height="305" alt="image" src="https://github.com/user-attachments/assets/444bfc8e-8c19-4ea5-8c85-6014a51012ea" />
+<img width="156" height="312" alt="image" src="https://github.com/user-attachments/assets/88cd2575-69e7-488b-8d57-c5322721b80b" />
+
 ##### ` 게시글 작성 페이지 `
 >-	사용자는 이미지 추가, 제목 입력, 지역 선택, 본문 입력을 할 수 있습니다.
 >-	모든 입력이 완료되면 하단의 작성 완료 버튼을 눌러 게시합니다.
+<img width="142" height="316" alt="image" src="https://github.com/user-attachments/assets/ffb99d0b-6d83-48c9-a1ca-ee5cb25a8e4d" />
+
 ##### ` 재난 대응 메뉴 페이지 `
 >-	사용자는 여러 카테고리(전체 재난 정보, 대피 방법, 체크리스트, 뉴스, 후원)를 탐색할 수 있습니다.
 >-	각 카테고리 클릭 시 상세 페이지로 이동합니다.
+<img width="149" height="314" alt="image" src="https://github.com/user-attachments/assets/432e7c3c-e6b3-4b13-80be-cde50e40a25e" />
+
 ##### ` 전체 재난 정보 페이지 `
 >-	현재까지 발생한 모든 재난 문자를 시간순으로 확인할 수 있습니다.
 >-	각 항목은 시간, 메시지 내용, 지역정보로 구성되어 있습니다.
 >-	상단의 필터 아이콘을 클릭하면  재난 유형을 필터링할 수 있습니다.
 >-	특정 재난 유형(예: 화재, 지진, 태풍 등)을 필터링 할 경우 사용자가 선택한 유형에 따라 목록이 실시간 갱신됩니다.
+<img width="148" height="312" alt="image" src="https://github.com/user-attachments/assets/c501dbc9-f008-4c36-8e9c-44374320f536" />
+<img width="148" height="313" alt="image" src="https://github.com/user-attachments/assets/4d4cfe63-8115-49e5-8eac-685f817bcd61" />
+
 ##### ` 대피 방법 페이지 `
 >-	재난별 행동요령을 확인할 수 있습니다.
 >-	상단에서 다른 재난 유형(산사태, 홍수 등)으로 쉽게 전환 가능합니다.
+<img width="148" height="313" alt="image" src="https://github.com/user-attachments/assets/0cbc3c7c-0f37-4e77-87aa-6dab3fa50317" />
+<img width="148" height="312" alt="image" src="https://github.com/user-attachments/assets/7d861e22-1658-40fb-b2b3-feb4870b06d6" />
+<img width="147" height="311" alt="image" src="https://github.com/user-attachments/assets/4b0bfa26-0dee-43fd-bae3-98e061ed8d22" />
+
 ##### ` 체크리스트 페이지 `
 >-	가방에 챙길 것, 집에 비치할 것 등 카테고리별로 구분되어 있으며, 각 카테고리별 진행률과 상단에 전체 진행률이 표시됩니다.
 >-	각 카테고리는 클릭 시 하위 항목이 펼쳐져 세부 체크리스트를 확인할 수 있습니다.
 >-	세부 체크리스트에서는 세부 항목을 체크할 수 있습니다.
 >-	별표 표시된 항목은 중요도가 높음을 의미합니다.
 >-	완료된 항목은 취소선과 함께 체크박스로 표현됩니다.
+<img width="148" height="313" alt="image" src="https://github.com/user-attachments/assets/6606c44f-1be4-49bc-96ea-a7648d5431e2" />
+<img width="148" height="312" alt="image" src="https://github.com/user-attachments/assets/50c70b2f-daac-4479-aa53-1cf891773cc0" />
+
 ##### ` 마이 페이지 `
 >-	사용자 정보, 포인트, 계정 관리, 재난 문자 설정, 내가 작성한 게시글 및 댓글 확인, 로그아웃, 회원 탈퇴 등의 메뉴로 구성되어 있습니다.
 >-	닉네임 변경 또는 비밀번호 변경 클릭 시 각 페이지로 이동합니다.
+<img width="154" height="304" alt="image" src="https://github.com/user-attachments/assets/f040d814-d4ca-4f6b-aa54-62fa1154d199" />
+<img width="158" height="313" alt="image" src="https://github.com/user-attachments/assets/9bdbcbef-556f-4d3e-98cf-9f5b734e05e2" />
+<img width="140" height="312" alt="image" src="https://github.com/user-attachments/assets/0b3e2b09-76ca-4335-a85f-b0729903ca71" />
+
 ##### ` 닉네임 변경 페이지 `
 >-	사용자가 새 닉네임을 입력하고 변경하기 버튼을 클릭할 경우 마이페이지로 돌아가며 변경된 닉네임이 반영됩니다.
+<img width="149" height="315" alt="image" src="https://github.com/user-attachments/assets/3ffc0a00-6d23-453a-b414-32a1f1c8c324" />
+
 ##### ` 비밀번호 변경 페이지 `
 >-	사용자로부터 현재 비밀번호와 새 비밀번호, 새 비밀번호 확인을 입력받습니다.
 >-	입력된 새 비밀번호는 8자 이상 조건을 만족해야하며, 세 필드에 유효성 검사가 진행됩니다.
 >-	각 필드가 일치하지 않으면 오류 메시지가 표시됩니다.
 >-	변경하기 버튼을 눌러서 변경 성공 시 완료 메시지가 표시되며, 마이 페이지로 이동합니다.
+<img width="149" height="315" alt="image" src="https://github.com/user-attachments/assets/a08be73c-7c81-4e5e-9023-f65ce45d6bed" />
+
 ##### ` 지역 알림 설정 페이지 `
 >	재난 문자 수신 지역을 선택할 수 있습니다.
 >-	광역자치단체로 항목화 되어있으며, 각 항목 클릭 시 기초 자치 단체로 구성된 하위 지역 선택 모달이 뜹니다.
 >-	각 모달에서 사용자가 알림을 받고자 하는 지역을 선택할 수 있습니다.
 >-	선택된 지역은 빨간색으로 표시되며, 한 번 더 누르면 선택 해제가 가능합니다.
+<img width="149" height="314" alt="image" src="https://github.com/user-attachments/assets/77720115-f062-48aa-bef4-582c432de796" />
+<img width="147" height="311" alt="image" src="https://github.com/user-attachments/assets/cb7cc4f4-071b-448d-ac54-b0fd910268fa" />
+
 ##### ` 재난 유형 알림 설정 페이지 `
 >-	사용자가 알림을 받고자 하는 재난 유형을 선택할 수 있습니다.
 >-	선택한 재난 유형은 붉은색 배경과 체크 아이콘으로 강조됩니다.
 >-	하단의 “알림 설정 완료” 버튼을 눌러 서버에 설정을 저장하고 이전 화면으로 돌아갑니다.
+<img width="147" height="311" alt="image" src="https://github.com/user-attachments/assets/acd6f2ed-a3c6-4553-a86f-27f0db81ad3a" />
+
+
 ##### ` 회원 탈퇴 페이지 `
 >-	마이페이지에서 회원탈퇴를 클릭하면 뜨는 페이지 입니다.
 >-	탈퇴 시 모든 포인트가 삭제되며, 작업은 되돌릴 수 없다는 안내 문구 포함한 “정말 탈퇴하시겠습니까?”의 경고 메시지가 뜹니다.
 >-	 두 개의 선택지 중 “예, 탈퇴하겠습니다.”를 선택할 경우 회원 탈퇴가 이루어지고 “아니오, 계속 이용하겠습니다.” 를 선택할 경우 이전 화면으로 돌아갑니다.
+<img width="148" height="312" alt="image" src="https://github.com/user-attachments/assets/b3954926-af05-4908-896b-e58c8a48b087" />
+
 ##### ` 뉴스 페이지 `
->-	상단에는 재난 관련 영상 썸네일이 가로 슬라이드 방식으로 표시되고 하단에는 재난 관련 기사들이 수직으로 정렬 되어있습니다.
+>- 상단에는 재난 관련 영상 썸네일이 가로 슬라이드 방식으로 표시되고 하단에는 재난 관련 기사들이 수직으로 정렬 되어있습니다. 기사 클릭 시 해당 기사로 이동합니다. AI 요약 보기로 최근 재난 뉴스들을 요약하며 키워드를 알 수 있습니다. 
+<img width="167" height="327" alt="image" src="https://github.com/user-attachments/assets/71a4fc97-87d9-4692-8313-2f2836830456" />
+<img width="198" height="175" alt="image" src="https://github.com/user-attachments/assets/3107a9af-602f-4dac-a42c-c2bf25ec5351" />
+
+##### ` 후원 페이지 `
+>- 운영자가 후원 단체를 등록할 수 있으며 후원 목록을 통해 후원 단체를 볼 수 있습니다. 후원하기를 통해 후원 단체에 후원할 수 있습니다. 실제 결제는 되지 않으며 가상으로 후원을 진행하도록 개발하였습니다.
+<img width="167" height="327" alt="image" src="https://github.com/user-attachments/assets/3fcf7a2e-b4a1-41e6-b886-05f22d9014f9" />
+<img width="168" height="336" alt="image" src="https://github.com/user-attachments/assets/7430f2cc-816a-4b80-8d83-859d6eb4c19b" />
+<img width="168" height="336" alt="image" src="https://github.com/user-attachments/assets/e43c3f60-f582-4358-b880-904bb2dbd496" />
+<img width="161" height="320" alt="image" src="https://github.com/user-attachments/assets/d27e6aa9-0363-4bc0-a295-0a4ca01ec77f" />
 
 #### 3.4. 디렉토리 구조
 FE
@@ -502,9 +563,8 @@ project-root/
 │       ├── fcm_util.py
 │       ├── jwt_util.py
 │       ├── redis_util.py
-│       └── s3_util.py
+│       └── s3_util.py 
 ```
-
 
 ### 4. 설치 및 사용 방법
 - [Frontend GitHub Repo](https://github.com/ResQ-404Found/ResQ-Frontend)  
@@ -513,6 +573,7 @@ project-root/
 <br>
   
 ### 5. 소개 및 시연영상
+[![ResQ 시연영상](https://img.youtube.com/vi/4z43MMPDgcM/0.jpg)](https://youtu.be/4z43MMPDgcM)
 
 <br/>
 
@@ -529,7 +590,7 @@ project-root/
 <br/>
 
 
-### 7. 해커톤 참여 후기
+### 7. 해커톤 참여 후기 
 - **임나빈**  
   > 장기간 프로젝트의 팀장을 맡아, 팀 전반의 개발 흐름을 조율하고 진행 상황을 관리하였으며 백엔드 개발 및 배포를 담당하였습니다. 새로운 기술 스택의 도입과 실제 서비스에서 사용되는 핵심 기능들을 직접 설계하고 구현함으로써 개발자로서의 역량을 크게 향상시킬 수 있었고 자신감을 얻을 수 있었습니다. 또한, 팀원 간의 원활한 커뮤니케이션과 효율적인 역할 분담의 중요성을 깊이 체감하며, 팀장의 책임감과 리더십을 실질적으로 경험하고 성장할 수 있었습니다.
 - **박지은**  
